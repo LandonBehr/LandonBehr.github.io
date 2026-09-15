@@ -1,5 +1,5 @@
 html {
-    background-image: liner-gradient(to bottom, white 0%,#facd8a 100%);
+    background-image: linear-gradient(to bottom, white 0%, grey 100%);
 }
 body {
     width: 1000px;
