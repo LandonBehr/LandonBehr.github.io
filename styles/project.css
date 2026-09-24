@@ -37,6 +37,7 @@ header img {
     text-shadow: 2px 2px 2px black;
 }
 article {
+    border-top: 2px solid maroon;
     clear: left;
     width: 70%;
     float: left;
