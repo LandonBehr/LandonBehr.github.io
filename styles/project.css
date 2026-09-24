@@ -29,6 +29,7 @@ header h2 {
     font-size: 130%;
     color: #800000;
     text-indent: 30px;
+    border-bottom: 2px solid maroon;
 }
 header img {
     float: left;
@@ -37,7 +38,6 @@ header img {
     text-shadow: 2px 2px 2px black;
 }
 article {
-    border-top: 2px solid maroon;
     clear: left;
     width: 70%;
     float: left;
@@ -76,4 +76,5 @@ p.fixed {
     right: 0em;
     background-color: grey;
     padding: 1em;
+    border: 2px solid black;
 }
