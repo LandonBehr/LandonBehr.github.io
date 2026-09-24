@@ -74,5 +74,6 @@ p.fixed {
     width: auto;
     bottom: 0;
     right: 0;
-    color: grey;
+    background-color: grey;
+    padding: 1em;
 }
