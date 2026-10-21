@@ -14,8 +14,27 @@
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
 
+body {
+    background: url("/images/shsunew.png") right repeat-y;
+    background-size: 30%;
+}
+
+header {
+    border-bottom: 2px solid green;
+    padding-bottom: 60px;
+}
+
+article {
+    columns: 3;
+    column-gap: 20px;
+}
+
 article h1 {
     clear: left;
+    color: green;
+}
+
+article h2 {
     color: green;
 }
 
@@ -35,26 +54,13 @@ aside ul {
     list-style-type: square;
 }
 
-header {
-    border-bottom: 2px solid green;
-    padding-bottom: 60px;
-}
-article h2 {
-    color: green;
-}
-
-body {
-    background: url("/images/shsunew.png") right repeat-y;
-    background-size: 30%;
-}
-
-
 .uppercase::first-letter {
     font-size: 3em;
     font-weight: bold;
     font-family: cursive;
     color: purple;
 }
+
 footer {
     border-top: 2px solid green;
     text-align: center;
