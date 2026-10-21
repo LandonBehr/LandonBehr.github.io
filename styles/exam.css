@@ -32,7 +32,7 @@ body {
     background: url("/images/shsulogo.jpg") right repeat-y;
 }
 
-article p::first-letter {
+.uppercase::first-letter {
     font-size: 3em;
     font-weight: bold;
     font-family: cursive;
