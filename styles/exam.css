@@ -13,6 +13,6 @@
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
-header {
-    margin-bottom: 1em;
+header h2 {
+    border-bottom: 2px solid green;
 }
