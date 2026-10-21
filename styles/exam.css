@@ -25,7 +25,6 @@ aside ul {
 }
 
 header {
-    border-bottom: 2px solid green;
     padding-bottom: 10px;
 }
 header h2 {
@@ -35,6 +34,10 @@ header h2 {
 body {
     background: url("/images/shsunew.png") right repeat-y;
     background-size: 30%;
+}
+
+article {
+    border-top: 2px solid green;
 }
 
 .uppercase::first-letter {
