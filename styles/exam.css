@@ -26,6 +26,7 @@ aside ul {
 
 header {
     border-bottom: 2px solid green;
+    padding-bottom: 10px;
 }
 header h2 {
     color: green;
