@@ -34,6 +34,7 @@ header h2 {
 
 body {
     background: url("/images/shsulogo.jpg") right repeat-y;
+    background-size: 150%;
 }
 
 .uppercase::first-letter {
