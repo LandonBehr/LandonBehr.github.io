@@ -23,9 +23,12 @@ aside ol {
 aside ul {
     list-style-type: square;
 }
+
+header h1 {
+    border-bottom: 2px solid green;
+}
 header h2 {
     color: green;
-    border-bottom: 2px solid green;
 }
 
 body {
