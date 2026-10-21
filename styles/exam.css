@@ -26,3 +26,7 @@ aside ul {
 header h2 {
     border-bottom: 2px solid green;
 }
+
+body {
+    background: url("/images/shsulogo.jpg") right repeat-y;
+}
