@@ -24,7 +24,7 @@ aside ul {
     list-style-type: square;
 }
 
-header h1 {
+header {
     border-bottom: 2px solid green;
 }
 header h2 {
