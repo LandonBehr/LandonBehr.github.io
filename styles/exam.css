@@ -37,7 +37,7 @@ body {
 }
 
 article {
-    border-top: 2px solid green;
+    border-bottom: 2px solid green;
 }
 
 .uppercase::first-letter {
