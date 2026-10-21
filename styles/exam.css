@@ -18,6 +18,13 @@ article h1 {
     clear: left;
     color: green;
 }
+
+article img {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
 aside ol ol {
     list-style-type: lower-alpha;
 }
