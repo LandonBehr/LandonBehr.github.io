@@ -24,9 +24,17 @@ aside ul {
     list-style-type: square;
 }
 header h2 {
+    color: green;
     border-bottom: 2px solid green;
 }
 
 body {
     background: url("/images/shsulogo.jpg") right repeat-y;
+}
+
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-family: cursive;
+    color: purple;
 }
