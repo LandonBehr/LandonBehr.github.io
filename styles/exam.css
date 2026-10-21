@@ -28,7 +28,7 @@ header {
     border-bottom: 2px solid green;
     padding-bottom: 60px;
 }
-header h2 {
+article h2 {
     color: green;
 }
 
