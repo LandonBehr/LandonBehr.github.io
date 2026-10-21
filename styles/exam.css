@@ -33,8 +33,8 @@ header h2 {
 }
 
 body {
-    background: url("/images/shsulogo.jpg") right repeat-y;
-    background-size: 150%;
+    background: url("/images/shsunew.png") right repeat-y;
+    background-size: 100%;
 }
 
 .uppercase::first-letter {
@@ -42,4 +42,7 @@ body {
     font-weight: bold;
     font-family: cursive;
     color: purple;
+}
+footer {
+    border-top: 2px solid green;
 }
