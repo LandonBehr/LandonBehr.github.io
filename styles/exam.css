@@ -27,6 +27,7 @@ header {
 article {
     columns: 3;
     column-gap: 20px;
+    column-rule: 2px dotted green;
 }
 
 article h1 {
