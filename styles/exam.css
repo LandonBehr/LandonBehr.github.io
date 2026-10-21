@@ -36,6 +36,10 @@ body {
     background-size: 30%;
 }
 
+article h1 {
+    border-bottom: 2px solid green;
+}
+
 .uppercase::first-letter {
     font-size: 3em;
     font-weight: bold;
