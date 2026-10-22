@@ -2,6 +2,20 @@ html {
     background-image: linear-gradient(to left, white 0%, cyan 100%);
 }
 
+body {
+    width: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+    background: url("/images/shsunew.png") right repeat-y;
+    background-attachment: fixed;
+    background-color: white;
+}
+
 #nav_menu ul { list-style-type: none; }
 #nav_menu ul li { float: left; }
 #nav_menu ul li a {
@@ -17,11 +31,6 @@ html {
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
-
-body {
-    background: url("/images/shsunew.png") right repeat-y;
-    background-size: 30%;
-}
 
 header {
     border-bottom: 2px solid green;
