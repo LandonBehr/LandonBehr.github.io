@@ -56,6 +56,15 @@ aside ul {
     list-style-type: square;
 }
 
+aside.fixed {
+    position: fixed;
+    width: auto;
+    right: 0em;
+    background-color: lightgreen;
+    padding: 1em;
+    border: 2px solid green;
+}
+
 .uppercase::first-letter {
     font-size: 3em;
     font-weight: bold;
