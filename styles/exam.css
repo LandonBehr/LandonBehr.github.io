@@ -38,7 +38,7 @@ header {
 }
 
 article {
-    margin-right: 220px;
+    margin-right: 300px;
     columns: 3;
     column-gap: 20px;
     column-rule: 10px dotted green;
