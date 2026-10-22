@@ -60,6 +60,12 @@ article img {
     margin-bottom: 1em;
 }
 
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    color: purple;
+}
+
 aside ol ol {
     list-style-type: lower-alpha;
 }
@@ -83,12 +89,6 @@ aside.fixed {
 aside a {
     display: block;
     margin-bottom: 8px;
-}
-
-article p::first-letter {
-    font-size: 3em;
-    font-weight: bold;
-    color: purple;
 }
 
 footer {
