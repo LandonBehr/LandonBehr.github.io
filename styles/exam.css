@@ -66,6 +66,13 @@ article p::first-letter {
     color: purple;
 }
 
+video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
 aside ol ol {
     list-style-type: lower-alpha;
 }
