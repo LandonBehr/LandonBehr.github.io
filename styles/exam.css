@@ -80,6 +80,11 @@ aside.fixed {
     border: 2px solid green;
 }
 
+aside a {
+    display: block;
+    margin-bottom: 8px;
+}
+
 article p::first-letter {
     font-size: 3em;
     font-weight: bold;
