@@ -73,6 +73,7 @@ table.second thead tr:first-child{
 table.third {
     width: 25%;
     border-collapse: collapse;
+    border-bottom: 2px solid orangered;
 }
 
 table.third caption {
@@ -106,10 +107,6 @@ table.third td:nth-child(2) {
 table.third td:last-child {
     text-align: center;
     width: 40%;
-}
-
-table.third table {
-    border-bottom: 2px solid orangered;
 }
 
 @media only screen and (max-width: 425px) { 
