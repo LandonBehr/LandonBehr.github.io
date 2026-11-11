@@ -70,7 +70,46 @@ table.second thead tr:first-child{
 
 }
 
+table.third {
+    width: 100%;
+    border-collapse: collapse;
+}
 
+table.third caption {
+    background-color: lightgreen;
+    border-top: 2px solid orangered;
+    border-bottom: 2px solid orangered;
+    font-weight: bold;
+    padding: 7px;
+}
+
+table.third th {
+    background-color: lightgreen;
+    padding: 7px;
+    text-align: center;
+}
+
+table.third td {
+    padding: 5px;
+    text-align: left;
+}
+
+table.third td:first-child {
+    text-align: center;
+    width: 15%;
+}
+
+table.third td:nth-child(2) {
+    width: 45%;
+}
+
+table.third td:last-child {
+    width: 40%;
+}
+
+table.third table {
+    border-bottom: 2px solid orangered;
+}
 
 @media only screen and (max-width: 425px) { 
 
