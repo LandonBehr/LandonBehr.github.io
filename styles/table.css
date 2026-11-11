@@ -88,6 +88,7 @@ table.third th {
     background-color: lightgreen;
     padding: 7px;
     text-align: center;
+    border-bottom: 2px solid orangered;
 }
 
 table.third td {
