@@ -95,7 +95,7 @@ table.third td {
 }
 
 table.third td:first-child {
-    text-align: center;
+    text-align: left;
     width: 15%;
 }
 
@@ -104,6 +104,7 @@ table.third td:nth-child(2) {
 }
 
 table.third td:last-child {
+    text-align: center;
     width: 40%;
 }
 
